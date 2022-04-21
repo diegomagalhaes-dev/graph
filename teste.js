@@ -1,4 +1,4 @@
-const Graph = require("./depth-first-search");
+const Graph = require("./graph-search");
 
 const graph = new Graph();
 
