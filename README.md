@@ -10,8 +10,7 @@
 
 ## Depth-First Search (profundidade)
 * Armazeno os valores encontrados em um array **discovered**, para definir o que ainda será chamado na recursão.
-## Breadth-First Search (largura)# graph
-
+## Breadth-First Search (largura)
 
 ## Para rodar
 ```
